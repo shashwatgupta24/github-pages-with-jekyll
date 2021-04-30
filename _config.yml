@@ -1,11 +1,9 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: My Life Insights
+author: Shashwat Gupta
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Hi! I am Shashwat Gupta, a 19 year old student who loves to talk about his Life. I share my experiences, lessons and learnings in this blog so anybody who is interested in learning about this can read it!
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
